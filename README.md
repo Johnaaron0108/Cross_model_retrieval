@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
   <img src="https://img.shields.io/badge/Library-SentenceTransformers-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Library-NumPy-013243?style=for-the-badge"/>
 </p>
